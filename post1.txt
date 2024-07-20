@@ -5,3 +5,5 @@ My First Blog Post
 4.  How to initialize a Git repository
 5.  How to add and commit changes
 6. Stay tuned for more posts!
+
+new text in the master branch
